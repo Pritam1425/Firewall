@@ -33,6 +33,7 @@ From the perspective of a server, network traffic can be either outgoing or inco
 Incoming traffic is treated differently. Most traffic which reaches on the firewall is one of these three major Transport Layer protocols- TCP, UDP or ICMP. All these types have a source address and destination address. Also, TCP and UDP have port numbers. ICMP uses type code instead of port number which identifies purpose of that packet.
 
 **Default policy**: It is very difficult to explicitly cover every possible rule on the firewall. For this reason, the firewall must always have a default policy. Default policy only consists of action (accept, reject or drop).
+
 **Accept** : Allow the traffic
 
 **Reject** : Block the traffic but reply with an “unreachable error”
@@ -40,3 +41,4 @@ Incoming traffic is treated differently. Most traffic which reaches on the firew
 **Drop** : Block the traffic with no reply
 
 Suppose no rule is defined about SSH connection to the server on the firewall. So, it will follow the default policy. If default policy on the firewall is set to accept, then any computer outside of your office can establish an SSH connection to the server. Therefore, setting default policy as drop (or reject) is always a good practice.
+
