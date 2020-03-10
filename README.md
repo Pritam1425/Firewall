@@ -53,3 +53,28 @@ more layers of defense, the harder for hackers to use your computer.
 3. Install Anti-Spyware Software
 4. Use Complex and Secure Passwords
 5. Check on the Security Settings of the Browser
+
+### Install Firewall:
+A firewall creates a barrier between the computer and any unauthorized program trying to come in through the Internet. If you are using 
+a system at home, turn on the firewall permanently. It makes you aware if there are any unauthorized efforts to use your system.
+
+### Install Antivirus Software
+Antivirus is one other means to protect the computer. It is software that helps to protect the computer from any unauthorized code or 
+software that creates a threat to the system. Unauthorized software includes viruses, keyloggers, trojans etc. This might slow down the 
+processing speed of your computer, delete important files and access personal information. Even if your system is virus free, you must 
+install an antivirus software to prevent the system from further attack of virus.
+
+### Install Anti-Spyware Software
+Spyware is a software program that collects personal information or information about an organization without their approval. This 
+information is redirected to a third party website. Spyware are designed in such a way that they are not easy to be removed. Anti-
+Spyware software is solely dedicated to combat spyware. Similar to antivirus software, anti-spyware software offers real time 
+protection. It scans all the incoming information and helps in blocking the threat once detected.
+
+### Use Complex and Secure Passwords
+The first line of defence in maintaining system security is to have strong and complex passwords. Complex passwords are difficult for 
+the hackers to find. Use a password that is at least 8 characters in length and include a combination of numbers, letters that are both 
+upper and lower case and a special character. Hackers use certain tools to break easy passwords in few minutes.
+
+### Check on the Security Settings of the Browser
+Browsers have various security and privacy settings that you should review and set to the level you desire. Recent browsers give you 
+ability to tell web sites to not track your movements, increasing your privacy and security.
