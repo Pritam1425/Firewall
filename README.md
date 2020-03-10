@@ -1,7 +1,7 @@
 # Firewall
 ## Description about firewall and how to improve security of our system:
 
-## How does Firewall help to secure pc?
+##1. How does Firewall help to secure pc?
 Firstly to know about how the firewall works, we should know about what is firewall.
 
 ### What is firewall?
