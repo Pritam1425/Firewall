@@ -1,7 +1,7 @@
 # Firewall
 ## Description about firewall and how to improve security of our system:
 
-1. How does Firewall help to secure pc?
+## 1. How does Firewall help to secure pc?
 Firstly to know about how the firewall works, we should know about what is firewall.
 
 ### What is firewall?
@@ -42,3 +42,14 @@ Incoming traffic is treated differently. Most traffic which reaches on the firew
 
 Suppose no rule is defined about SSH connection to the server on the firewall. So, it will follow the default policy. If default policy on the firewall is set to accept, then any computer outside of your office can establish an SSH connection to the server. Therefore, setting default policy as drop (or reject) is always a good practice.
 
+
+## 2. As a system admin, what precautions you will take to secure your system?
+There are numerous ways to protect and remove malware from our computers. No one method is enough to ensure your computer is secure. The 
+more layers of defense, the harder for hackers to use your computer.
+
+**Check out the 5 steps to protect your computer:**
+1. Install Firewall
+2. Install Antivirus Software
+3. Install Anti-Spyware Software
+4. Use Complex and Secure Passwords
+5. Check on the Security Settings of the Browser
